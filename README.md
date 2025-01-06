@@ -11,3 +11,10 @@ In this repository I will be writing polyfills for all the builtin methods just 
 - find()
 - findIndex()
 - reduce()
+- some()
+- every()
+
+## String
+- includes()
+- trim()
+- repeat()
